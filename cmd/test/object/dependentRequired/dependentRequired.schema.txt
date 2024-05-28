@@ -1,0 +1,6 @@
+{
+  "type": "object",
+  "dependentRequired": {
+    "a": ["b", "c"]
+  }
+}

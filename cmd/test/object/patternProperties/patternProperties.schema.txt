@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "patternProperties": {
+    "^str-": {
+      "type": "string"
+    },
+    "^int-": {
+      "type": "integer"
+    }
+  }
+}
